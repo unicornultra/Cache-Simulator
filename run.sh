@@ -1,0 +1,1 @@
+cd "c:\Users\yashj\OneDrive\Desktop\Cache\Source\" ; if ($?) { C:\gcc-15.1.0\bin\g++.exe cache.cpp memory.cpp processor.cpp replacementAlgorithm.cpp   main.cpp -std=c++23 -o main.exe } ; if ($?) { .\main.exe }
